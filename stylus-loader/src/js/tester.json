@@ -1,0 +1,16 @@
+{
+    "nombres": [
+        {
+            "name": "Perro",
+            "mail": "perro@perro.com"
+        },
+        {
+            "name": "Gato",
+            "mail": "gato@gato.com"
+        },
+        {
+            "name": "Rata",
+            "mail": "rata@rata.com"
+        }
+    ]
+}
